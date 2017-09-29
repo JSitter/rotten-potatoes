@@ -1,3 +1,10 @@
+/***********************************************
+ *    ROTTEN POTATOES
+ *    
+ *    v1.0.0 
+ * 
+ **********************************************/
+
 var express = require('express');
 var exphbs = require('express-handlebars');
 var mongoose = require('mongoose');
