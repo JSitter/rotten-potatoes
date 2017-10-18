@@ -1,6 +1,5 @@
 /***********************************************
  *    ROTTEN POTATOES
- *    
  *    v1.0.0 
  * 
  **********************************************/
@@ -66,5 +65,5 @@ app.get('/reviews/new', function (req, res) {
 
 //Listen on port 30010
 app.listen(30010, function () {
-  console.log('Rotten Potatoes listening on port 3000!');
+  console.log('Rotten Potatoes listening on port 30010!');
 });
